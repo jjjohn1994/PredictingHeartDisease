@@ -1,4 +1,4 @@
-# Kaggle Competition: PredictingHeartDisease
+# Kaggle Competition: Predicting whether a patient is suffering from heart disease or not
 
 Introduction :
 
